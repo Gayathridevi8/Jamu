@@ -1,2 +1,1 @@
-# gayu8
-# jscript
+# javascript
